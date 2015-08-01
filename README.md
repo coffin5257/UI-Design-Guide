@@ -1,4 +1,4 @@
-# UI 设计指南
+# 初创团队 UI 设计指南
 
 ## 工具
 
@@ -18,7 +18,6 @@
 关于这方面，请看：
 
 - [移动设计指南！如何利用视觉元素有效传达信息？](http://www.uisdc.com/mobile-visual-communication-design)
-- [UI设计师不可不知的安卓屏幕知识(原创)](http://www.zcool.com.cn/article/ZNjI3NDQ=.html)
 - iOS 和 Android 也有相关的设计规范：
 	- [iOS](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html) - [[ISUX转译]iOS 8人机界面指南（一）：UI设计基础](http://isux.tencent.com/ios8-human-interface-guidelines.html)
 	- [Android Design 4.4](http://adchs.github.io/index.html)
@@ -63,7 +62,13 @@
 
 ### 尺寸
 
+- [UI设计师不可不知的安卓屏幕知识(原创)](http://www.zcool.com.cn/article/ZNjI3NDQ=.html)
 - 如果多客户端只出一套设计，设置 Artboard 大小为 720*1280（Sketch 里的都是 px），使用 Measure 插件标注的时候选择 xhdpi（2px=1dp）
+- iOS 启动图片尺寸，[iOS App图标和启动画面尺寸](http://www.jianshu.com/p/adpKye)：
+	- 640x960
+	- 640x1136
+	- 750x1134
+	- 1242x2208 
 
 ### 项目组织
 
@@ -287,3 +292,5 @@ git push origin master
 ![](http://7bv8xn.com1.z0.glb.clouddn.com/20150801180318.png)
 
 #### 以上！通过这样的方式，你能很轻松地维护你的设计，很顺畅地跟开发沟通，另外，设计师掌握点技术相关的东西，还是很重要的。
+
+最后，本文引用了大量互联网上的文章链接，特别感谢这些文章的作者们。
