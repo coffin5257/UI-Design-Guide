@@ -5,7 +5,7 @@
 - 一台 Mac
 - Sketch ：http://pan.baidu.com/s/1eQF5ClW 密码: bw9u
 - Zeplin ：https://zeplin.io/ 每个免费帐号可以建一个项目，这个主要目的是导出切图
-- Skala Preview ： 方便在手机上实时预览
+- Skala Preview：方便在手机上实时预览
 - ICON 库：sketch 支持导入 SVG/EPS 格式的矢量图
 - PS AI 等 ： 辅助，[如何在4小时内学会 AI](http://www.zhihu.com/question/21378038)
 
