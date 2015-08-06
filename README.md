@@ -287,7 +287,7 @@ git push origin master
 
 ```
 
-然后我们再去 Gitlan 看看，根目录下的 README.md 文件能直接预览
+然后我们再去 Gitlab 看看，根目录下的 README.md 文件能直接预览
 
 ![](http://7bv8xn.com1.z0.glb.clouddn.com/20150801180318.png)
 
