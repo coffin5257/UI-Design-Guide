@@ -63,7 +63,7 @@
 ### 尺寸
 
 - [UI设计师不可不知的安卓屏幕知识(原创)](http://www.zcool.com.cn/article/ZNjI3NDQ=.html)
-- 如果多客户端只出一套设计，设置 Artboard 大小为 360*640（720*1280 虽然看起来比较好，但是一方面网络上的资源基本都是 360*640，另一方面小点 Sketch 能不那么卡）（Sketch 里的都是 px），使用 Measure 插件标注的时候选择 xhdpi（2px=1dp）
+- 如果多客户端只出一套设计，设置 Artboard 大小为720*1280（再次改成720，因为标注插件的大小并没有随着 Resolution 变化，结果一个字体标注能占满整个宽度）（Sketch 里的都是 px） <del> 360\*640（720\*1280 虽然看起来比较好，但是一方面网络上的资源基本都是 360\*640，另一方面小点 Sketch 能不那么卡）</del>，使用 Measure 插件标注的时候选择 xhdpi（2px=1dp）
 - iOS 启动图片尺寸，[iOS App图标和启动画面尺寸](http://www.jianshu.com/p/adpKye)：
 	- 640x960
 	- 640x1136
