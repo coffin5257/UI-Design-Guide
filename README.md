@@ -3,7 +3,7 @@
 ## 工具
 
 - 一台 Mac
-- Sketch ：http://pan.baidu.com/s/1eQF5ClW 密码: bw9u
+- Sketch ：自行下载
 - Zeplin ：https://zeplin.io/ 每个免费帐号可以建一个项目，这个主要目的是导出切图
 - Skala Preview：方便在手机上实时预览
 - ICON 库：sketch 支持导入 SVG/EPS 格式的矢量图
@@ -63,7 +63,7 @@
 ### 尺寸
 
 - [UI设计师不可不知的安卓屏幕知识(原创)](http://www.zcool.com.cn/article/ZNjI3NDQ=.html)
-- 如果多客户端只出一套设计，设置 Artboard 大小为 720*1280（Sketch 里的都是 px），使用 Measure 插件标注的时候选择 xhdpi（2px=1dp）
+- 如果多客户端只出一套设计，设置 Artboard 大小为 360*640（720*1280 虽然看起来比较好，但是一方面网络上的资源基本都是 360*640，另一方面小点 Sketch 能不那么卡）（Sketch 里的都是 px），使用 Measure 插件标注的时候选择 xhdpi（2px=1dp）
 - iOS 启动图片尺寸，[iOS App图标和启动画面尺寸](http://www.jianshu.com/p/adpKye)：
 	- 640x960
 	- 640x1136
