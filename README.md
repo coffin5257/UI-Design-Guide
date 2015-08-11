@@ -53,7 +53,7 @@
 
 ### 预防针
 
-- 使用指南、插件安装：[Sketch 中文网](http://sketchcn.com/)，装一个 Sketch toolbox，安装插件非常方便
+- 使用指南、插件安装：[Sketch 中文网](http://sketchcn.com/)，装一个 [Sketch toolbox](http://sketchtoolbox.com/)，安装插件非常方便
 
 - 不许出现 **位置** 和 **尺寸** 上的「半个像素」，否则会有毛边，或者尺寸计算错误，这种情况一般出现在整体放大、缩小某个元素时。
  ![](http://7bv8xn.com1.z0.glb.clouddn.com/20150801141915.png)
